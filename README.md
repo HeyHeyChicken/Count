@@ -21,8 +21,9 @@ This skill will allow your assistant to count.
 
 ## Features
 
-- It will allow your assistant to roll a die (give you a number between 1 and 6).
-- It will allow your assistant give you a number between x and y.
+- It will allow your assistant to count ASC from 0 to X.
+- It will allow your assistant to count DESC from X to 0.
+- It will allow your assistant to count from X to Y.
 
 ## Support and contribution
 
