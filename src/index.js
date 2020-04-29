@@ -1,5 +1,5 @@
 const LIBRARIES = {
-  Skill: require("../../Libraries/Skill")
+  Skill: require("../../../Libraries/Skill")
 };
 
 class Count extends LIBRARIES.Skill{
