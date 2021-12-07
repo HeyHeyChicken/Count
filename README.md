@@ -6,7 +6,7 @@ This skill will allow your assistant to count.
 
 <br>
 
-<img src="https://github.com/HeyHeyChicken/NOVA-Count/blob/master/resources/screenshot.jpg" alt="NOVA" width="800">
+<img src="https://github.com/HeyHeyChicken/NOVA-Count/blob/master/resources/github-screenshot.jpg" alt="NOVA" width="800">
 </div>
 
 <br>
