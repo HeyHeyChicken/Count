@@ -1,0 +1,10 @@
+{
+	"worksOffline" : true,
+	"description" : {
+		"fr-FR": "Cette compétence permettra à votre assistant de compter.",
+		"en-US": "This skill will allow your assistant to count."
+	},
+	"language": [
+		"fr-FR"
+	]
+}
