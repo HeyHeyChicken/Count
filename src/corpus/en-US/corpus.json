@@ -1,0 +1,23 @@
+{
+  "name": "Count",
+  "data": [
+    {
+      "intent": "count.up",
+      "utterances": [
+        "Count to {number|1}"
+      ]
+    },
+    {
+      "intent": "count.down",
+      "utterances": [
+        "Countdown from {number|1}"
+      ]
+    },
+    {
+      "intent": "count.from.to",
+      "utterances": [
+        "Count from {from|1} to {to|1}"
+      ]
+    }
+  ]
+}

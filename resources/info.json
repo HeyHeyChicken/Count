@@ -5,6 +5,7 @@
 		"en-US": "This skill will allow your assistant to count."
 	},
 	"language": [
-		"fr-FR"
+		"fr-FR",
+		"en-US"
 	]
 }
